@@ -1,0 +1,4 @@
+*.pdf
+/target
+/.idea
+*.iml
